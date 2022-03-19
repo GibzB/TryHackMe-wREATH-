@@ -23,3 +23,8 @@ Ans: https://thomaswreath.thm/
 
 Add it to your hosts file manually. 
 Ans added 10.200.181.200 https://thomaswreath.thm/ in hosts file on /etc/hosts
+
+5. Read through the text on the page. What is Thomas' mobile phone number?
+Ans +447821548812
+
+ 
