@@ -13,3 +13,8 @@ Ans: 4
 code: nmap -p 22,80,443,10000 -sV -oA webserve-service 10.200.181.200
 
 Ans: CentOs
+
+3. Open the IP in your browser -- what site does the server try to redirect you to?
+code: 10.200.181.200 (type in browser)
+
+Ans: https://thomaswreath.thm/
