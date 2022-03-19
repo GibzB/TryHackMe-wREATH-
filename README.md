@@ -18,3 +18,8 @@ Ans: CentOs
 code: 10.200.181.200 (type in browser)
 
 Ans: https://thomaswreath.thm/
+
+4. Looks like Thomas forgot to set up the DNS!
+
+Add it to your hosts file manually. 
+Ans added 10.200.181.200 https://thomaswreath.thm/ in hosts file on /etc/hosts
